@@ -185,3 +185,11 @@ https://github.com/shimaazssheikh14-jpg/ros2-diff-drive-nav
 ## Author
 
 ROS 2 Differential Drive Robot Simulation, Mapping and Navigation Project
+
+
+
+<img width="1731" height="1098" alt="image" src="https://github.com/user-attachments/assets/bb00f879-19c3-49d4-bf0f-cb7bdca5514e" />
+<img width="1731" height="1098" alt="image" src="https://github.com/user-attachments/assets/f9d8a743-20ba-413d-9c22-6eb0571efab9" />
+<img width="1731" height="1098" alt="image" src="https://github.com/user-attachments/assets/f58f5556-0309-49e6-b552-29c69d6da17f" />
+
+
